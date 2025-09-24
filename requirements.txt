@@ -3,6 +3,7 @@ scikit-learn
 pandas
 numpy
 requests
-Pillow
+
 json
+
 joblib
